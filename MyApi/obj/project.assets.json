@@ -3179,24 +3179,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Muhammad Hammas Khan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ahsan Mehmood\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programing\\MyProjects\\MyApi\\MyApi\\MyApi.csproj",
+      "projectUniqueName": "F:\\programming\\selfprojects\\MyApi\\MyApi\\MyApi.csproj",
       "projectName": "MyApi",
-      "projectPath": "E:\\Programing\\MyProjects\\MyApi\\MyApi\\MyApi.csproj",
-      "packagesPath": "C:\\Users\\Muhammad Hammas Khan\\.nuget\\packages\\",
-      "outputPath": "E:\\Programing\\MyProjects\\MyApi\\MyApi\\obj\\",
+      "projectPath": "F:\\programming\\selfprojects\\MyApi\\MyApi\\MyApi.csproj",
+      "packagesPath": "C:\\Users\\Ahsan Mehmood\\.nuget\\packages\\",
+      "outputPath": "F:\\programming\\selfprojects\\MyApi\\MyApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Muhammad Hammas Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Ahsan Mehmood\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3210,11 +3205,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Programing\\MyProjects\\MyApi\\Models\\Models.csproj": {
-              "projectPath": "E:\\Programing\\MyProjects\\MyApi\\Models\\Models.csproj"
+            "F:\\programming\\selfprojects\\MyApi\\Models\\Models.csproj": {
+              "projectPath": "F:\\programming\\selfprojects\\MyApi\\Models\\Models.csproj"
             },
-            "E:\\Programing\\MyProjects\\MyApi\\Services\\Services.csproj": {
-              "projectPath": "E:\\Programing\\MyProjects\\MyApi\\Services\\Services.csproj"
+            "F:\\programming\\selfprojects\\MyApi\\Services\\Services.csproj": {
+              "projectPath": "F:\\programming\\selfprojects\\MyApi\\Services\\Services.csproj"
             }
           }
         }
@@ -3292,7 +3287,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

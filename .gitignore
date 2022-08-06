@@ -5,3 +5,6 @@
 *.vsidx
 .vs/MyApi/v17/.suo
 Data/bin/Debug/net6.0/Data.dll
+.vs/MyApi/DesignTimeBuild/.dtbcache.v2
+.vs/ProjectEvaluation/myapi.metadata.v2
+.vs/ProjectEvaluation/myapi.projects.v2
